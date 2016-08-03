@@ -1,0 +1,4 @@
+* Alle Sportarten wie Badminton, 2. bild in 720 dazu als content bild check!
+* "zurück knopf" schwarz, hover grau check!
+* selectbox bei anmeldung check!
+* zurück buttons icon entfernen check!

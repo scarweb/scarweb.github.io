@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index scaufruhrbg">
+    {% include nav.html %}
+    {% include header.html %}
+    {% include about.html %}
+    {% include portfolio_grid.html %}
+    {% include termine.html %}
+    {% include tourniere.html %}
+
+    {% if site.contact == "static" %}
+    {% include contact_static.html %}
+    {% elsif site.contact == "disqus" %}
+    {% include contact_disqus.html %}
+    {% else %}
+    {% include contact.html %}
+    {% endif %}
+
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include calendar-modal.html %}
+    {% include anmeldung.html %}
+    {% include impressum-modal.html %}
+    {% include js.html %}
+    </body>
+</html>

@@ -1,0 +1,77 @@
+ <!-- jQuery Version 1.11.0 -->
+    <script src="{{ "/js/jquery-1.11.0.js" }}"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{ "/js/bootstrap.min.js" }}"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="{{ "/js/jquery.easing.min.js" }}"></script>
+    <script src="{{ "/js/classie.js" }}"></script>
+    <script src="{{ "/js/cbpAnimatedHeader.js" }}"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="{{ "/js/jqBootstrapValidation.js" }}"></script>
+    {% if site.contact == "static" %}
+    <script src="{{ "/js/contact_me_static.js" }}"></script>
+    {% else %}
+     <script src="{{ "/js/contact_me.js" }}"></script>
+    {% endif %}
+
+    <!-- Custom Theme JavaScript -->
+    <script src="{{ "/js/freelancer.js" }}"></script>
+
+    <script src="{{ "/js/jquery.ics-0.3.js" }}"></script>
+
+    {% if site.contact == "disqus" %}
+    <!-- Disqus Stuff -->
+    {% include js_disqus.html %}
+    {% endif %}
+
+ <script>
+
+    jQuery(document).ready(function(){
+        try {
+            $.ajax({
+                url: '/calender_json.php',
+                success: function(response){
+                    var old_date = '';
+                    for (i in response.termine){
+                        var vonbis = response.termine[i].start + '-' + response.termine[i].ende + ': ';
+                        if (old_date!=response.termine[i].datum){
+                            $("#termine").append("<h4>" + response.termine[i].datum + "</h4>");
+                            old_date=response.termine[i].datum;
+                        }
+                        $("#termine").append('<div class="termineintrag">' + vonbis + response.termine[i].summary + "</div>");
+                    }
+                }
+            });
+        } catch (err) {
+            console.log(err);
+        }
+
+    });
+
+     /*
+
+      jQuery('<div/>', {
+      id: 'foo',
+      href: 'http://google.com',
+      title: 'Become a Googler',
+      rel: 'external',
+      text: 'Go to Google!'
+      }).appendTo('#mySelector');
+
+
+     var pattern = Trianglify({
+         width: window.innerWidth,
+         height: window.innerHeight,
+         variance: 0.47,
+         cell_size: 225,
+         seed: null,
+         x_colors: ['#74ac26', '#195fa7', '#f08915', '#00a3e3', '#8b63a0', '#dc2718'],
+         y_colors: 'match_x'
+     });
+     */
+     // $('#entrypage').css('background-image', 'url(' + pattern.png() + ')');
+
+ </script>

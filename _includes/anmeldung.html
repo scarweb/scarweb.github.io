@@ -1,0 +1,85 @@
+<div class="portfolio-modal modal fade" id="modal-anmeldung" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Tournieranmeldung</h2>
+                        <hr class="star-primary">
+
+                        <form action="//formspree.io/{{site.contactemail}}" method="POST" name="sentAnmeldung"
+                              id="anmeldeForm" novalidate>
+                            <div class="row control-group">
+                                <div class="form-group col-xs-12 controls">
+                                    <label>Anmeldung für</label>
+                                    <select name="tournier" id="tournsel" class="form-control">
+                                        {% for tournier in site.data.tourniere %}
+                                        <option>{{tournier.datum}} - {{tournier.name}}</option>
+                                        {% endfor %}
+                                    </select>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="row control-group">
+                                <div class="form-group col-xs-12 floating-label-form-group controls">
+                                    <label>Anzahl Teilnehmer</label>
+                                    <input type="text" name="anzahl-teilnehmer" class="form-control" placeholder="Anzahl"
+                                           id="anzahl" required
+                                           data-validation-required-message="Bitte Teilnehmeranzahl angeben">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="row control-group">
+                                <div class="form-group col-xs-12 floating-label-form-group controls">
+                                    <label>Name</label>
+                                    <input type="text" name="name" class="form-control" placeholder="Name"
+                                           id="anmeldename" required
+                                           data-validation-required-message="Bitte Namen ausfüllen">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="row control-group">
+                                <div class="form-group col-xs-12 floating-label-form-group controls">
+                                    <label>Email Adresse</label>
+                                    <input type="email" name="_replyto" class="form-control" placeholder="Email Adresse"
+                                           id="anmeldeemail" required
+                                           data-validation-required-message="Bitte eine gültige email Adresse angeben.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div>
+                                <input type="hidden" name="_subject" value="Neue Tournieranmeldung">
+                                <input type="text" name="_gotcha" style="display:none"/>
+                            </div>
+                            <div class="row control-group">
+                                <div class="form-group col-xs-12 floating-label-form-group controls">
+                                    <label>Bemerkung</label>
+                                    <textarea rows="5" name="bemerkung" class="form-control" placeholder="Bemerkung"
+                                              id="bemerkung"></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <br>
+                            <div id="success"></div>
+                            <div class="row">
+                                <div class="form-group col-xs-12">
+                                    <button type="submit" class="btn btn-success btn-lg">Senden</button>
+                                </div>
+                            </div>
+                        </form>
+
+                        <button type="button" class="btn btn-success" data-dismiss="modal">
+                            zur&uuml;ck
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

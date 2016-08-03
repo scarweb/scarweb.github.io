@@ -1,0 +1,25 @@
+<section id="championships" class="transwhite">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Kommende Turniere</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+
+                {% for tournier in site.data.tourniere %}
+                    <strong>{{tournier.datum}} : {{tournier.name}} /  {{tournier.text}}</strong> <br>
+                {% endfor %}
+
+                <p>&nbsp;</p>
+                <button href="#modal-anmeldung" class="btn btn-success" data-toggle="modal">
+                    Online anmelden
+                </button>
+
+            </div>
+
+        </div>
+    </div>
+</section>
