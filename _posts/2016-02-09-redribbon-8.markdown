@@ -2,8 +2,8 @@
 layout: default
 modal-id: 8
 date: 2016-02-09
-img: RedRibbon_600x600_Gruen.jpg
-contentimg: RedRibbon_720x600.jpg
+img: Redribbon_600x600_gelb.jpg
+contentimg: Redribbon_720x600.jpg
 sportart: RedRibbon
 description: RedRibbon microsite
              
@@ -25,9 +25,6 @@ Am Samstag ab 15 Uhr in der Sporthalle des Schalker Gymnasiums an der Liboriusst
 
 Maik und sein Stellvertreter Andreas sind per Mail unter [redribbon@sc-aufruhr.de](mailto:redribbon@sc-aufruhr.de) erreichbar.
   
-<p>&nbsp;</p>
-![platzhalter](//placehold.it/720x600 "platzhalter")
-
 
 **Ein paar Fragen an deinen Trainer**
 
@@ -45,8 +42,6 @@ Die RedRibbon Gruppe ist ein Angebot für Menschen mit HIV und deren Freunde, so
 
 Bei uns kann jeder mitmachen, Vorkenntnisse braucht keiner.
 
-<p>&nbsp;</p>
-![platzhalter](//placehold.it/720x600 "platzhalter")
 
 **Wie sehen eure Aktivitäten über das Jahr aus?**
 

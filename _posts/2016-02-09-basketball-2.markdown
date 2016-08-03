@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2016-02-09
-img: Basketball_600x600_Gelb.jpg
+img: Basketball_600x600_gelb.jpg
 contentimg: Basketball_720x600.jpg
 sportart: Basketball
 description: Basketball microsite
@@ -22,9 +22,6 @@ description: Basketball microsite
 
 Mathias und sein Stellvertreter Michael sind per Mail unter [basketball@sc-aufruhr.de](mailto:basketball@sc-aufruhr.de) erreichbar.
 
-<p>&nbsp;</p>
-![platzhalter](//placehold.it/720x600 "platzhalter")
-
 
  **Ein paar Fragen an deinen Trainer**
 
@@ -37,8 +34,6 @@ Mathias und sein Stellvertreter Michael sind per Mail unter [basketball@sc-aufru
 
 Eine lustige, sympathische Truppe aus ehemaligen Ligaspielern und Hobbybasketballern.
 
-<p>&nbsp;</p>
-![platzhalter](//placehold.it/720x600 "platzhalter")
 
 <p>&nbsp;</p>
 **Kann bei euch jeder mitmachen oder braucht es spezielle Erfahrung oder Ausrüstung?**
@@ -55,7 +50,5 @@ Neben dem regelmäßigen Training versuchen wir noch, das eine oder andere schwu
 
 Aus der Gruppe heraus haben sich teilweise ziemlich gute Freundschaften entwickelt, so dass man sich dann auch mal privat zum Feiern oder anderen Anlässen trifft.
 
-<p>&nbsp;</p>
-![platzhalter](//placehold.it/720x600 "platzhalter")
 
 ___

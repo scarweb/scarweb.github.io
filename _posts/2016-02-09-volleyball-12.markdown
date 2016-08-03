@@ -2,7 +2,7 @@
 layout: default
 modal-id: 12
 date: 2016-02-09
-img: Volleyball_600x600_Gelb.jpg
+img: Volleyball_600x600_lila.jpg
 contentimg: Volleyball_720x600.jpg
 sportart: Volleyball
 description: Volleyball microsite
@@ -32,9 +32,6 @@ Am Sonntag von 19 Uhr bis 22 Uhr in der Sporthalle an der Max-Wiethoff-Straße 1
 
 Klaus und seine Stellvertreterin Nicole sind per Mail unter [volleyball@sc-aufruhr.de](mailto:volleyball@sc-aufruhr.de) erreichbar.
   
-<p>&nbsp;</p>
-![platzhalter](//placehold.it/720x600 "platzhalter")
-
 
 **Ein paar Fragen an deinen Trainer**
 
@@ -55,8 +52,6 @@ Wir sind eine Gruppe von unterschiedlich spielstarken Spielerinnen und Spielern 
 Mitmachen kann jeder, auch Anfänger sind willkommen.Eine spezielle Ausrüstung ist zu Beginn nicht erforderlich, Sportzeug und Hallenschuhe sollte jeder
 mitbringen. Knieschützer sind sinnvoll, aber anfangs nicht zwingend erforderlich.
 
-<p>&nbsp;</p>
-![platzhalter](//placehold.it/720x600 "platzhalter")
 
 **Wie sehen eure Aktivitäten über das Jahr aus?**
 
