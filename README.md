@@ -1,7 +1,9 @@
 SC AufRuhr e.V. Site
 =========================
 
-### Eine statische Webseite generiert mit [Jekyll](https://jekyllrb.com/) 
+### Die statische Vereinswebseite des SC AufRuhr e.V. generiert mit [Jekyll](https://jekyllrb.com/) 
+
+  Link: [buckyball.github.io](https://buckyball.github.io/)
 
 ![screenshot](https://zoqbox.ath.cx/scar.jpg)
 
