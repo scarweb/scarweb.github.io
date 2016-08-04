@@ -18,12 +18,12 @@ description: Basketball microsite
  Sonntags von 14:00 Uhr bis 16:00 Uhr in der Sporthalle an der Max-Wiethoff-Straße 14a in Herne.
 
 <p>&nbsp;</p>
-**Deine Trainer**
+**Deine Ansprechpartner**
 
 Mathias und sein Stellvertreter Michael sind per Mail unter [basketball@sc-aufruhr.de](mailto:basketball@sc-aufruhr.de) erreichbar.
 
-
- **Ein paar Fragen an deinen Trainer**
+<p>&nbsp;</p>
+ **Ein paar Fragen an deinen Ansprechpartner**
 
 <p>&nbsp;</p>
 **Hallo Mathias, du leitest bei uns die Abteilung Basketball. Seit wann machst du das und wie bist du dazu gekommen?**

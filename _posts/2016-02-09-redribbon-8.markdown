@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2016-02-09
-img: Redribbon_600x600_gelb.jpg
+img: Redribbon_600x600_rot.jpg
 contentimg: Redribbon_720x600.jpg
 sportart: RedRibbon
 description: RedRibbon microsite
@@ -21,12 +21,12 @@ Neben dem Training trifft sich die Gruppe außerdem regelmäßig zu verschiedene
 Am Samstag ab 15 Uhr in der Sporthalle des Schalker Gymnasiums an der Liboriusstraße 103 in Gelsenkirchen.
 
 <p>&nbsp;</p>
-**Deine Trainer**
+**Deine Ansprechpartner**
 
 Maik und sein Stellvertreter Andreas sind per Mail unter [redribbon@sc-aufruhr.de](mailto:redribbon@sc-aufruhr.de) erreichbar.
   
 
-**Ein paar Fragen an deinen Trainer**
+**Ein paar Fragen an deinen Ansprechpartner**
 
 <p>&nbsp;</p>
 **Hallo Maik, du leitest bei uns die Abteilung RedRibbon. Seit wann machst du das und wie bist du dazu gekommen?**

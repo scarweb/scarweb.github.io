@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2016-02-09
-img: Bowling_600x600_Gruen.jpg
+img: Bowling_600x600_gruen.jpg
 contentimg: Bowling_720x600.jpg
 sportart: Bowling
 description: Bowling microsite
@@ -24,7 +24,7 @@ Für das Übungsspiel  auf der Bowlingbahn fallen je Spiel 2 Euro Gebühr an.
 Am Mittwoch von 19 Uhr bis 22.30 Uhr auf mindestens zwei Bahnen des Bochumer Bowlingtreffs an der Herner Straße 36 in Bochum.
 
 <p>&nbsp;</p>
-**Deine Trainer**
+**Deine Ansprechpartner**
 
 Ingo und sein Stellvertreter Mathias sind per Mail unter [bowling@sc-aufruhr.de](mailto:bowling@sc-aufruhr.de) erreichbar.
   
@@ -32,7 +32,7 @@ Ingo und sein Stellvertreter Mathias sind per Mail unter [bowling@sc-aufruhr.de]
 ![Bowling](/img/sportarten/Bowling_720x600_2.jpg "Bowling")
 
 
-**Ein paar Fragen an deinen Trainer**
+**Ein paar Fragen an deinen Ansprechpartner**
 
 <p>&nbsp;</p>
 **Hallo Ingo, du leitest bei uns die Abteilung Bowling. Seit wann machst du das und wie bist du dazu gekommen?**

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2016-02-09
-img: Radfahren_600x600_rot.jpg
+img: Radfahren_600x600_gelb.jpg
 contentimg: Radfahren_720x600.jpg
 sportart: Radfahren
 description: Radfahren microsite
@@ -24,7 +24,7 @@ Wir freuen uns über jeden neuen Mitfahrer, der sich natürlich auch in die Abte
 Nach Absprache
 
 <p>&nbsp;</p>
-**Deine Trainer**
+**Deine Ansprechpartner**
 
 Martin und sein Stellvertreter Andreas sind per Mail unter [radfahren@sc-aufruhr.de](mailto:radfahren@sc-aufruhr.de) erreichbar.
   
@@ -32,7 +32,7 @@ Martin und sein Stellvertreter Andreas sind per Mail unter [radfahren@sc-aufruhr
 ![Radfahren](/img/sportarten/Radfahren_720x600_2.jpg "Radfahren")
 
 
-**Ein paar Fragen an deinen Trainer**
+**Ein paar Fragen an deine Ansprechpartner**
 
 <p>&nbsp;</p>
 **Hallo Martin, du leitest bei uns die Abteilung Radfahren. Seit wann machst du das und wie bist du dazu gekommen?**
