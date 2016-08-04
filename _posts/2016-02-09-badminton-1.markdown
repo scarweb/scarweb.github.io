@@ -33,7 +33,7 @@ Am Sonntag von 16 Uhr bis 19 Uhr in der Sporthalle an der Max-Wiethoff-Straße 1
 Uwe und Thorsten sind gemeinsam per Mail unter [badminton@sc-aufruhr.de](mailto:badminton@sc-aufruhr.de) erreichbar.
 
 <p>&nbsp;</p>
-![Badminton](/img/sportarten/Badminton_720x600_2.jpg "Badminton")
+![Badminton](/img/sportarten/Badminton_720x600_2.jpg "Badminton"){:class="img-responsive img-centered"}
 
 
 **Ein paar Fragen an deine Trainer**
@@ -48,7 +48,8 @@ Uwe und Thorsten sind gemeinsam per Mail unter [badminton@sc-aufruhr.de](mailto:
 Die Gruppe besteht aus ca. 30 mehr oder weniger aktiven Spielerinnen und Spielern. Die Herren sind in der Überzahl, aber unsere Damen sind die taktisch klüger spielenden Mitglieder und zeigen den Herren gerne mal, wo der Pfeffer wächst. Wir sind eine Hobbygruppe, die nicht vom Ligabetrieb und vom Ich-muss-immer-gewinnen-Spirit vorangetrieben wird. Jeder und jede kann am Spielbetrieb teilnehmen. Montags etwas entspannter und weniger Schweißtreibend mit Musikuntermalung. Am Sonntag dann die  etwas forderndere Spielweise. Das, was man selbst noch nicht so gut kann, guckt man sich im Spielbetrieb von den anderen ab und lernt durch das praktische Spielen. Wir machen kein Techniktraining – im Vordergrund steht das gemeinsame Spiel – in der Regel ist das ein Doppelspiel also zwei gegen zwei. Nach zwei gewonnen Sätzen werden die Doppel getauscht und nach kurzer Aus- und Verschnaufzeit geht es dann zum nächsten Doppelspiel mit neuen Spielpartnern / Spielpartnerinnen. So kommt man während der Spielzeit in den Genuss mit vielen verschiedenen Partnern / Partnerinnen in Berührung und muss sich stets auf eine neue Spielsituation einlassen. Das erleichtert sich auch schnell im Verein mit allen Mitgleidern bekannt zu machen. Vom Niveau gibt es da ebenfalls Unterschiede; dennoch gilt bei uns das Prinzip: jedes Mitglied spielt mit jedem anderen. Es gibt Mitglieder, die zu jedem Trainingstermin kommen und es gibt solche, die kommen eher mal sporadisch oder so wie es gerade in das eigene Zeitmanagement passt. Unsere jüngeren Mitglieder sind Mitte 20, unsere ältesten Mitglieder gehören schon zur Generation 50+. 
 
 <p>&nbsp;</p>
-![Badminton](/img/sportarten/Badminton_720x600_3.jpg "Badminton")
+
+![Badminton](/img/sportarten/Badminton_720x600_3.jpg "Badminton"){:class="img-responsive img-centered"}
 
 **Kann bei euch jeder mitmachen oder braucht es spezielle Erfahrung oder Ausrüstung?**
 
