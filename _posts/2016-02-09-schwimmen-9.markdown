@@ -30,7 +30,7 @@ Am Samstag von 14 Uhr bis 15.15 Uhr im Wanner Hallenbad an der Straße Am Solbad
 Barbara und ihre Stellvertreterin Susanne sind per Mail unter [schwimmen@sc-aufruhr.de](mailto:schwimmen@sc-aufruhr.de) erreichbar.
   
 <p>&nbsp;</p>
-![Schwimmen](/img/sportarten/Schwimmen_720x600_2.jpg "Schwimmen")
+![Schwimmen](/img/sportarten/Schwimmen_720x600_2.jpg "Schwimmen"){:class="img-responsive img-centered"}
 
 
 **Ein paar Fragen an deine Ansprechpartnerin**
@@ -54,7 +54,7 @@ Neben dem sportlichen ist das menschliche Miteinander für uns sehr wichtig.
 Bei uns kann generell Jede und Jeder mitmachen. Die Personen sollten nur schon schwimmen können und Spaß an der Bewegung im Wasser haben.
 
 <p>&nbsp;</p>
-![Schwimmen](/img/sportarten/Schwimmen_720x600_3.jpg "Schwimmen")
+![Schwimmen](/img/sportarten/Schwimmen_720x600_3.jpg "Schwimmen"){:class="img-responsive img-centered"}
 
 **Wie sehen eure Aktivitäten über das Jahr aus?**
 

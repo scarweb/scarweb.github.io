@@ -29,7 +29,7 @@ Am Mittwoch von 19 Uhr bis 22.30 Uhr auf mindestens zwei Bahnen des Bochumer Bow
 Ingo und sein Stellvertreter Mathias sind per Mail unter [bowling@sc-aufruhr.de](mailto:bowling@sc-aufruhr.de) erreichbar.
   
 <p>&nbsp;</p>
-![Bowling](/img/sportarten/Bowling_720x600_2.jpg "Bowling")
+![Bowling](/img/sportarten/Bowling_720x600_2.jpg "Bowling"){:class="img-responsive img-centered"}
 
 
 **Ein paar Fragen an deinen Ansprechpartner**
@@ -51,7 +51,7 @@ Die Bowlingabteilung ist zwar eine kleine, aber ich muss sagen eine sehr aktive 
 Also bei uns kann soweit jeder mitmachen. Sportgeräte  wie zum Beispiel Leischuhe für die Bowlingbahn und einen Ball werden zum „Antesten“ kostenlos vom Bowlingbetreiber den AufRuhr Spielern gestellt. Bleibt man dem Bowlen treu, so haben bisher alle die zur Abteilung gekommen sind, sich eigene Bowlingschuhe und Bälle angeschafft.  Muss nicht sein, aber es ist halt nicht jedermanns Sache, Schuhe sich ausleihen zu wollen und einen Ball zu besitzen, „der eine keine Bohrung“ für seine Hand besitzt.
 
 <p>&nbsp;</p>
-![Bowling](/img/sportarten/Bowling_720x600_3.jpg "Bowling")
+![Bowling](/img/sportarten/Bowling_720x600_3.jpg "Bowling"){:class="img-responsive img-centered"}
 
 **Wie sehen eure Aktivitäten über das Jahr aus?**
 

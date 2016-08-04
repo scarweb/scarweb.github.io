@@ -29,7 +29,7 @@ Nach Absprache
 Martin und sein Stellvertreter Andreas sind per Mail unter [radfahren@sc-aufruhr.de](mailto:radfahren@sc-aufruhr.de) erreichbar.
   
 <p>&nbsp;</p>
-![Radfahren](/img/sportarten/Radfahren_720x600_2.jpg "Radfahren")
+![Radfahren](/img/sportarten/Radfahren_720x600_2.jpg "Radfahren"){:class="img-responsive img-centered"}
 
 
 **Ein paar Fragen an deine Ansprechpartner**
@@ -52,7 +52,7 @@ Was die Touren anbelangt, so liegt deren Länge in der Regel zwischen 50 und 60 
 Die Sporttouren betragen ca. 80km und wir fahren mit einer erhöhten Geschwindigkeit  Auch hier gibt es Pausen, wobei die Möglichkeit der Einkehr allerdings nicht im Vordergrund steht. 
 
 <p>&nbsp;</p>
-![Radfahren](/img/sportarten/Radfahren_720x600_3.jpg "Radfahren")
+![Radfahren](/img/sportarten/Radfahren_720x600_3.jpg "Radfahren"){:class="img-responsive img-centered"}
 
 **Wie sehen eure Aktivitäten über das Jahr aus?**
 
