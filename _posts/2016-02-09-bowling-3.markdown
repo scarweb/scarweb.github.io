@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2016-02-09
-img: Bowling_600x600_gruen.jpg
+img: Bowling_600x600_Gruen.jpg
 contentimg: Bowling_720x600.jpg
 sportart: Bowling
 description: Bowling microsite
