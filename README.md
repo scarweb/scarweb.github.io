@@ -8,9 +8,11 @@ SC AufRuhr e.V. Site
 ![screenshot](https://zoqbox.ath.cx/scar.jpg)
 
 ## How to start
-  Man kann die Texte online bei github oder lokal auf dem eigenen Rechner bearbeiten
+  
+  Man kann die Texte online bei github oder lokal auf dem eigenen Rechner bearbeiten, meist ist die online BEarbeitung bei Github selber einfacher.
+  Dennoch hier eine kurze Zusammenfassung wie man das alles lokal und offline bearbeiten kann:
 
-### zur lokalen bearbeitung alles herunterladen
+### Zur lokalen Bearbeitung alles herunterladen
   
   Zunächst sollte am besten jekyll installiert sein, ist aber keine Pflicht. Bei Interesse: [install Jekyll](https://jekyllrb.com/docs/installation/)
  
@@ -34,6 +36,11 @@ Configuration file: /Users/xx/code/jekyll-scaufruhr/_config.yml
 ### Bearbeiten mit einem Editor
 
  - Im Verzeichnis im Terminal `code .` eingeben um den Editor zu öffnen.
+
+### Deine Änderungen wieder hochladen und aktivieren
+
+ - Im Projektverzeichnis `git commit -a -m "beschreibung der Änderungen"` ausführen, dann:
+ - `git push` ausführen um alles wieder auf github zuschieben. Nachdem alles oben ist aktiviert Github alle Änderungen automatisch
 
 ## Wo ist das ganze Zeug?
 
