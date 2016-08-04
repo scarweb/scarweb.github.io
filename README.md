@@ -8,8 +8,14 @@ SC AufRuhr e.V. Site
 ![screenshot](https://zoqbox.ath.cx/scar.jpg)
 
 ## How to start
- - git clone dieses Repo `git clone https://gog.zoq.de/brill0/scar.git`
- - wechsele in das Verzeichnis: `cd scar`
+  Man kann die Texte online bei github oder lokal auf dem eigenen Rechner bearbeiten
+
+### zur lokalen bearbeitung alles herunterladen
+  
+  Zunächst sollte am besten jekyll installiert sein, ist aber keine Pflicht. Bei Interesse: [install Jekyll](https://jekyllrb.com/docs/installation/)
+ 
+ - git clone dieses Repo `git clone https://github.com/scarweb/scarweb.github.io.git`
+ - wechsele in das Verzeichnis: `cd scarweb.github.io`
  - `jekyll serve` startet den lokalen Webserver, meist http://127.0.0.1:4000/
  - sollte so in etwa aussehen:
 
@@ -25,6 +31,9 @@ Configuration file: /Users/xx/code/jekyll-scaufruhr/_config.yml
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
 ```
+### Bearbeiten mit einem Editor
+
+ - Im Verzeichnis im Terminal `code .` eingeben um den Editor zu öffnen.
 
 ## Wo ist das ganze Zeug?
 
@@ -41,4 +50,4 @@ Damit man sehen kann ob man den Text auch richtig formatiert hat kann man eine M
 
 
 =========
-want to know more?
+brill0
