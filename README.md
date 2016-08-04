@@ -32,7 +32,7 @@ Die Daten sind in folgenden Dateien/Ordnern verteilt:
    - einfach eine neue Datei anlegen und folgendermaßen benennen: `YYYY-MM-DD-SPORTARTNAME-LFDNR.markdown`
  - Die Bilder und andere Medien sind in `img`
  - Copyright & Startseitentexte sind in der Datei `_config.yml`
- - Sponsoren und Tournier Daten sind in `_data/sponsoren.yml` und `_data/tourniere.yml`
+ - Sponsoren und Turnier Daten sind in `_data/sponsoren.yml` und `_data/tourniere.yml`
 
 Damit man sehen kann ob man den Text auch richtig formatiert hat kann man eine Markdown extension in deinen Editor der Wahl installieren, ich empfehle
 [Microsoft Visual Code](https://code.visualstudio.com/) mit folgenden [Markdown Erweiterungen](https://code.visualstudio.com/Docs/languages/markdown)
