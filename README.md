@@ -5,7 +5,7 @@ SC AufRuhr e.V. Site
 
   Link: [scarweb.github.io](https://scarweb.github.io/)
 
-![screenshot](https://zoqbox.ath.cx/scar.jpg)
+
 
 ## How to start
   
