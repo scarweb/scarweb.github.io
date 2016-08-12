@@ -1,11 +1,7 @@
-- name: Badminton Club Meisterschaft
-  datum: 26.02.2016
-  text: das alljährliche Club Turnier
+- name: Volleyball Turnier
+  datum: 30.09. - 03.10.2016
+  text: Volleyball Turnier vom 30.09. - 03.10.2016
 
-- name: Kampfsport Club Turnier
-  datum: 05.05.2016
-  text: Martial Arts Club Turnier
-
-- name: Fussball Club Cup
-  datum: 05.09.2016
-  text: Fussballturnier
+- name: Bowling Turnier
+  datum: 30.09.2016
+  text: Bowling Turnier am 30.09.2016
