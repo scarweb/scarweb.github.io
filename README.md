@@ -9,7 +9,7 @@ SC AufRuhr e.V. Site
 
 ## How to start
   
-  Man kann die Texte online bei github oder lokal auf dem eigenen Rechner bearbeiten, meist ist die online BEarbeitung bei Github selber einfacher.
+  Man kann die Texte online bei github oder lokal auf dem eigenen Rechner bearbeiten, meist ist die online Bearbeitung bei Github selber einfacher.
   Dennoch hier eine kurze Zusammenfassung wie man das alles lokal und offline bearbeiten kann:
 
 ### Zur lokalen Bearbeitung alles herunterladen
