@@ -606,3 +606,8 @@ section h2 {
 .fullwhite {
     background: #fff;
 }
+
+.satzunkslink{
+    font-size: 120%;
+    text-decoration: underline;
+}
