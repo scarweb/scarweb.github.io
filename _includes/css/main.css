@@ -608,6 +608,6 @@ section h2 {
 }
 
 .satzunkslink{
-    font-size: 120%;
+    /* font-size: 120%; */
     text-decoration: underline;
 }
