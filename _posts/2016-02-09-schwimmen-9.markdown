@@ -3,7 +3,7 @@ layout: default
 modal-id: 9
 date: 2016-02-09
 img: Schwimmen_600x600_gruen.jpg
-contentimg: Schwimmen_720x600.jpg
+contentimg: schwimmen_720x600.jpg
 sportart: Schwimmen
 description: Schwimmen microsite
              
