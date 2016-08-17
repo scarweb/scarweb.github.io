@@ -3,7 +3,7 @@ layout: default
 modal-id: 10
 date: 2016-02-09
 img: Tanzen_600x600_blau.jpg
-contentimg: Tanzen_720x600.jpg
+contentimg: tanzen_720x600.jpg
 sportart: Tanzen
 description: Tanzen microsite
              
