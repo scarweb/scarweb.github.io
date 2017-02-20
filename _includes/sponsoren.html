@@ -1,0 +1,30 @@
+<section id="sponsoring" class="transwhite">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-12 text-center">
+                <h2>AufRuhrCard und Sponsoren</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="jumbotron transwhite">
+                    <h3>Die AufRuhrCard erhalten Vereins-Mitglieder. Die Karte ermöglicht folgende Vergünstigungen:</h3>
+                </div>
+                <!-- Sponsor Eintrag aus _data/sponsoren.yml -->
+                 {% for sponsor in site.data.sponsoren %}
+                    <div class="list-group transwhite">
+                            <a href="{{sponsor.link}}" class="list-group-item" target="_blank">
+                                <h4 class="list-group-item-heading">{{sponsor.name}}</h4>
+                                <p class="list-group-item-text">
+                                {{sponsor.text}}
+                                </p>
+                            </a>
+                    </div>
+                 {% endfor %}
+            </div>
+        </div>
+    </div>
+
+</section>

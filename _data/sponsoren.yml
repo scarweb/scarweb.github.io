@@ -1,7 +1,20 @@
-- name: mandanzz
+- name: MANDANZZ Düsseldorf
   logo: mandanzz.png
-  text: Sponsortext
+  text: 50% Preisnachlass beim Einlass
+  link: http://www.mandanzz.de
 
-- name: Phoenix Club
+- name: Ruhrwellness Mülheim an der Ruhr
   logo: phoenix.jpg
-  text: Sponsortext
+  text: mittwochs freier Eintritt, sonst Einlass zum Studententarif
+  link: http://www.ruhrwellness.de
+
+- name: Metropol Sauna Essen
+  logo: mtplsn.jpg
+  text: 1 € Rabatt auf den normalen Eintrittspreis und 2 € Verzehrguthaben dazu
+  link: http://www.metropol-sauna.com
+
+- name: Fotostudio PR-Foto Gelsenkirchen
+  logo: prfoto.jpg
+  text: 5% Preisnachlass
+  link: http://www.pr-photo.de
+
