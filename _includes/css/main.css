@@ -611,3 +611,8 @@ section h2 {
     /* font-size: 120%; */
     text-decoration: underline;
 }
+
+.sponsorlogo{
+    height: 120px;
+    max-height: 120px;
+}
