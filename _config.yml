@@ -50,7 +50,6 @@ address:
 
 # Credits content
 credits: '<a href="moxie.de" target="_blank">moxie.de</a>'
-credits: '<a href="moxie.de">moxie.de</a> 
 
 # Build settings
 markdown: kramdown
