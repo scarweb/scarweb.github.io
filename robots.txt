@@ -1,1 +1,3 @@
-http://wwwsc-aufruhr.de/sitemap.xml
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://sc-aufruhr.de/sitmap.xml
