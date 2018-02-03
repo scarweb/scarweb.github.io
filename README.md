@@ -18,6 +18,12 @@ Die Daten sind in folgenden Dateien/Ordnern verteilt:
  - Die **Bilder** und andere Medien sind in `img`
  - **Copyright & Startseitentexte** sind in der Datei `_config.yml`
  - **Sponsoren** und **Turnier** Daten sind in `_data/sponsoren.yml` und `_data/tourniere.yml`
+ - neueTurniere in folgendem Formtat eingeben:
+ - - name: xxx-Turnier (Sportart)
+     datum: DD.MM. - DD.MM.YYYY
+     text: XXX Turnier vom DD.MM. bis DD.MM.YYYY
+     Leerzeile, bevor nächstes Turnier eingetragen wird.
+ 
 
 ### Dateien bearbeiten
 
@@ -52,6 +58,5 @@ Damit man sehen kann ob man den Text auch richtig formatiert hat kann man eine M
 
  - Der Client fragt bei Änderungen automatisch nach.
  
-
 =========
 
