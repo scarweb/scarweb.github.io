@@ -23,7 +23,7 @@ Am Montag von 19.30 Uhr bis 21.00 Uhr in der Soccerworld Recklinghausen an der a
 <p>&nbsp;</p>
 **Deine Ansprechpartner**
 
-Fabian und sein Stellvertreter Kai sind per Mail unter [fussball@sc-aufruhr.de](mailto:fussball@sc-aufruhr.de) erreichbar.
+Fabian und sein Stellvertreter Kai sind per Mail unter <b><a href="mailto:fussball@sc-aufruhr.de"><font color="#0000FF">fussball@sc-aufruhr.de</font></a></b> erreichbar.
   
 <p>&nbsp;</p>
 ![Fussball](/img/sportarten/Fussball_720x600_2.jpg "Fussball"){:class="img-responsive img-centered"}
