@@ -20,7 +20,7 @@ description: Basketball microsite
 <p>&nbsp;</p>
 **Deine Ansprechpartner**
 
-Mathias und sein Stellvertreter Michael sind per Mail unter [basketball@sc-aufruhr.de](mailto:basketball@sc-aufruhr.de) erreichbar.
+Mathias und sein Stellvertreter Michael sind per Mail unter <b> [basketball@sc-aufruhr.de](mailto:basketball@sc-aufruhr.de)</b> erreichbar.
 
 <p>&nbsp;</p>
  **Ein paar Fragen an deinen Ansprechpartner**
