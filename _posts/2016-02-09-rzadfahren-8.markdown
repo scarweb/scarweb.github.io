@@ -26,7 +26,7 @@ Nach Absprache
 <p>&nbsp;</p>
 **Deine Ansprechpartner**
 
-Martin und sein Stellvertreter Andreas sind per Mail unter [radfahren@sc-aufruhr.de](mailto:radfahren@sc-aufruhr.de) erreichbar.
+Martin und sein Stellvertreter Andreas sind per Mail unter <b><a href="mailto:radfahren@sc-aufruhr.de"><font color="#0000FF">radfahren@sc-aufruhr.de</font></a></b> erreichbar.
   
 <p>&nbsp;</p>
 ![Radfahren](/img/sportarten/Radfahren_720x600_2.jpg "Radfahren"){:class="img-responsive img-centered"}
