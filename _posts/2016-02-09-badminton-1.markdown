@@ -30,7 +30,7 @@ Am Sonntag von 16 Uhr bis 19 Uhr in der Sporthalle an der Max-Wiethoff-Straße 1
 <p>&nbsp;</p>
 **Deine Ansprechpartner**
 
-Uwe und Thorsten sind gemeinsam per Mail unter [badminton@sc-aufruhr.de](mailto:badminton@sc-aufruhr.de) erreichbar.
+Uwe und Thorsten sind gemeinsam per Mail unter <b><a href="mailto:badminton@sc-aufruhr.de"><font color="#0000FF">badminton@sc-aufruhr.de</font></a></b> erreichbar.
 
 <p>&nbsp;</p>
 ![Badminton](/img/sportarten/Badminton_720x600_2.jpg "Badminton"){:class="img-responsive img-centered"}
