@@ -30,7 +30,7 @@ Am Sonntag von 19 Uhr bis 22 Uhr in der Sporthalle an der Max-Wiethoff-Straße 1
 <p>&nbsp;</p>
 **Deine Ansprechpartner**
 
-Klaus und seine Stellvertreterin Nicole sind per Mail unter [volleyball@sc-aufruhr.de](mailto:volleyball@sc-aufruhr.de) erreichbar.
+Klaus und seine Stellvertreterin Nicole sind per Mail unter <b><a href="mailto:volleyball@sc-aufruhr.de"><font color="#0000FF">volleyball@sc-aufruhr.de</font></a></b> erreichbar.
   
 <p>&nbsp;</p>
 **Ein paar Fragen an deinen Ansprechpartner**
