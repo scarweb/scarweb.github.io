@@ -26,7 +26,7 @@ Am Mittwoch von 19 Uhr bis 22.30 Uhr auf mindestens zwei Bahnen des Bochumer Bow
 <p>&nbsp;</p>
 **Deine Ansprechpartner**
 
-Ingo und sein Stellvertreter Mathias sind per Mail unter [bowling@sc-aufruhr.de](mailto:bowling@sc-aufruhr.de) erreichbar.
+Ingo und sein Stellvertreter Mathias sind per Mail unter <b><a href="mailto:bowling@sc-aufruhr.de"><font color="#0000FF">bowling@sc-aufruhr.de</font></a></b> erreichbar.
   
 <p>&nbsp;</p>
 ![Bowling](/img/sportarten/Bowling_720x600_2.jpg "Bowling"){:class="img-responsive img-centered"}
