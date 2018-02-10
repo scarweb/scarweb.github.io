@@ -9,7 +9,7 @@ description: Basketball microsite
              
 ---
 
-  <b><a href="mailto:basketball@sc-aufruhr.de"><font color="#0000FF">basketball@sc-aufruhr.de</font></a></b>
+  <p><b><a href="mailto:basketball@sc-aufruhr.de"><font color="#0000FF">basketball@sc-aufruhr.de</font></a></b></p>
   Das Basketball-Team trifft sich einmal die Woche am Sonntagnachmittag zum Training. Die Abteilung spielt neben dem Training auch mehrmals im Jahr bei Hobby-Turnieren mit. Alter und Erfahrung spielen dabei keine Rolle, so die beiden Abteilungsleiter Mathias und Michael. „Wir sehen ebenso gerne Einsteiger wie Fortgeschrittene, dich sich für das aktive Basketballspielen interessieren. Der Spaß am Spiel in der Mannschaft steht  im Vordergrund .“
   
 <p>&nbsp;</p>
