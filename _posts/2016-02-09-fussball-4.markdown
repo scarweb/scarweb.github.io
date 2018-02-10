@@ -8,7 +8,8 @@ sportart: Fussball
 description: Fussball microsite
              
 ---
-  
+
+<p><b><a href="mailto:fussball@sc-aufruhr.de"><font color="#0000FF">fussball@sc-aufruhr.de</font></a></b></p>
 Fussball gehört seit 21 Jahren zum Sportangebot des SC-AufRuhr. In dieser Zeit konnte das Team schon das ein oder andere Turnier gewinnen. Auch die Fussball-Abteilung bietet jedem Anfänger die Möglichkeit den Einstieg in den populären Mannschaftssport zu finden. 
 Abteilungsleiter Fabian dazu: „Unser Team ist eine bunte Mischung aus Hobby- und Leistungsspielern. Jeder hat die Chance sich einzufinden und zu entwickeln. Beim Training achten wir darauf, dass die Spielniveaus fair verteilt sind und weniger erfahrene Spieler von ihren Mitspielern lernen können.“
 Beim Training wird nach dem Aufwärmen gleich gespielt. Fabian: „Bei uns steht der Spaß am Fussball im Vordergrund, weswegen wir auf ein umfangreiches Training verzichten.“
