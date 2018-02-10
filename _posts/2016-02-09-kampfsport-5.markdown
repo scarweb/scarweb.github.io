@@ -4,8 +4,8 @@ modal-id: 5
 date: 2016-02-09
 img: Kampfsport_600x600_lila.jpg
 contentimg: Kampfsport_720x600.jpg
-sportart: Kampfsport
-description: Kampfsport microsite
+sportart: Kampfkunst
+description: Kampfkunst microsite
              
 ---
   
