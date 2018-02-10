@@ -13,13 +13,11 @@
 					<div class="row control-group">
 						<div class="form-group col-xs-12 floating-label-form-group controls">
 							<label>Abteilung</label>
-							<select name="Abteilung" id="selDivision" class="form-control" placeholder="Abteilung">
+							<select name="Allgemein" id="selDivision" class="form-control" placeholder="Abteilung">
 								<option value="Keine-Auswahl">Abteilung</option>
                  				<option value="Allgemein">Allgemein</option>
                  				<option value="Vorstand">Vereinsvorstand</option>
-								{% for post in site.posts reversed %}
-									<option value="{{ post.sportart }}">{{ post.sportart }}</option>
-								{% endfor %}
+								
             				</select>
 							<p class="help-block text-danger"></p>
 						</div>
