@@ -8,6 +8,8 @@ sportart: Radfahren
 description: Radfahren microsite
              
 ---
+
+<p><b><a href="mailto:radfahren@sc-aufruhr.de"><font color="#0000FF">radfahren@sc-aufruhr.de</font></a></b></p>
 Aus sporadischen Fahrradtouren von Mitgliedern des SC-AufRuhr entwickelte sich 2005 die Abteilung Radsport. Mittlerweile ist die Gruppe regelmäßig unterwegs und bietet verschiedene Radtouren an. Dabei geht es in erster Linie um Spaß am Radfahren und das Erkunden neuer Strecken im Ruhrgebiet.
 
 Die Radfahrer treffen sich zwischen April und Oktober an jedem vierten Sonntag im Monat zu einer Ganztagestour. Die Streckenlänge beträgt meist zwischen 50 und 60 Kilometer und wird in gemütlichem Tempo gefahren.
