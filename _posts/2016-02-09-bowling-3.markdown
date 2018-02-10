@@ -9,7 +9,7 @@ description: Bowling microsite
              
 ---
 
-  
+<p><b><a href="mailto:bowling@sc-aufruhr.de"><font color="#0000FF">bowling@sc-aufruhr.de</font></a></b></p>  
 Das Bowling-Spiel entwickelte sich in Amerika bedingt durch ein Kegelverbot von 1837 im Bundesstaat Connecticut. Durch das hinzunehmen eines zehnten Kegels und einem veränderten Aufbau der Kegel vom Viereck zum Dreieck wurde das Verbot umgangen und es entstand das Bowling.
 
 Beim SC AufRuhr ist Bowling schon (fast genauso) lange ein fester Bestandteil des Sportangebots. Einmal die Woche treffen sich die Spieler zum Übungsspiel, um ihr Können zu verbessern und einen netten (Feier-)Abend zu verbringen. Neben dem Übungsspielen bietet sich Mitgliedern außerdem die Möglichkeit an verschiedenen nationalen und internationalen Turnieren teilzunehmen. 
