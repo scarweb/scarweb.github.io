@@ -9,6 +9,7 @@ description: Schwimmen microsite
              
 ---
 
+<p><b><a href="mailto:schwimmen@sc-aufruhr.de"><font color="#0000FF">schwimmen@sc-aufruhr.de</font></a></b></p>
 Das Schwimm-Team des SC-AufRuhr besteht zurzeit aus 20 aktiven Männern und Frauen. Das Trainingsniveau reicht dabei vom Anfänger bis zum ambitionierten Schwimmer. 
 Trainerin Martina achtet bei den einmal wöchentlich stattfindenden Einheiten darauf, (dass das Trainingsprogramm alle mit ihren jeweiligen Potentialen mit einbezieht)
 jedem ein möglichst individuelles Programm zu erstellen.
