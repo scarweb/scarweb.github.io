@@ -11,7 +11,7 @@ description: Badminton microsite
 
 
 
-  
+  <p><b><a href="mailto:badminton@sc-aufruhr.de"><font color="#0000FF">badminton@sc-aufruhr.de</font></a></b></p>
   Die Badminton-Abteilung des SC-AufRuhr ist die mitglieder-stärkste Abteilung des Vereins. Die Spieler treffen sich bis zu zweimal in der Woche zum Training in Herner Sporthallen. Dabei wird auch auf die unterschiedlichen Spielstärken der Akteure eingegangen. Denn Vertreten ist in der Abteilung jeder – vom Anfänger bis zum Kreisklasse-Spieler. 
 
   Wer mag, fährt, neben dem Training, mehrmals im Jahr zu nationalen und internationalen Turnieren. Außerdem wird einmal im Jahr ein eigenes Turnier ausgerichtet. Geleitet wird die Abteilung von Uwe und Thorsten. Uwe: „Uns geht es beim Spielen vor allem um den Spaß. Für jeden findet sich bei uns der passende Spielpartner.“
