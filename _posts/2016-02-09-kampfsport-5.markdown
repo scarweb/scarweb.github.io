@@ -10,6 +10,9 @@ description: Kampfkunst microsite
 ---
   
 <p><b><a href="mailto:kampfkunst@sc-aufruhr.de"><font color="#0000FF">kampfkunst@sc-aufruhr.de</font></a></b></p>
+
+Ansprechpartner: Karsten
+
 Selbstbehauptung für Schwule, Lesben und Freunde - unter diesem Titel finden sporadisch Selbstbehauptungs-Kurse unseres Vereins in Gelsenkirchen statt. 
 Ziel dieser Kurse ist es nicht, Einzelkämpferinnen und -kämpfer auszubilden. Teilnehmerinnen und Teilnehmer erhalten durch Trainer wichtige Verhaltenstipps in Angst- und Gewaltsituationen. 
 Ein sehr großer Teil der Veranstaltung wird dem Eigenverhalten in solchen Situationen gewidmet.
