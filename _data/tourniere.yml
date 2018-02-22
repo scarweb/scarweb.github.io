@@ -1,3 +1,3 @@
-- name: 
-  datum: 
-  text: Bei aktuellen Turnieren wird an dieser Stelle ein Link für die Turnieranmeldung angezeigt. Derzeit gibt es keine Turniere des SC-Aufruhr.<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSd9ChxEzfIlrQm2b2OlYSNw1556EKaS_aR26CGTGWhYSjL8pg/viewform"></a>
+- name: Bezeichnung (Sportart)
+  datum: Datum des Turiers
+  text: Bei aktuellen Turnieren wird an dieser Stelle ein Link für die Turnieranmeldung angezeigt. Derzeit gibt es keine Turniere des SC-Aufruhr.
