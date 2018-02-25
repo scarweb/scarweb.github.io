@@ -1,5 +1,5 @@
 AuthType Basic
 AuthName "Passwortgeschützter Bereich"
-AuthUserFile /.htpasswd
+AuthUserFile /geschuetzt/.htpasswd
 Require valid-user
 <a href="/img/beitragsordnung_scaufruhr.pdf">Beitragsordnung</a>
