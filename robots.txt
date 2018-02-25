@@ -1,3 +1,4 @@
 Disallow: 
+Dirallow: /geschuetzt.html
 Disallow: /cgi-bin/
 Sitemap: http://sc-aufruhr.de/sitmap.xml
