@@ -60,13 +60,13 @@ Der SC AufRuhr und insbesondere die RedRibbon-Gruppe für mich der Schutzraum, d
 
 Einige Eindrücke vom Training und der Hallen:
 
-![RedRibbon](/img/sportarten/redribbon/01.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
-![RedRibbon](/img/sportarten/redribbon/02.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
-![RedRibbon](/img/sportarten/redribbon/03.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
-![RedRibbon](/img/sportarten/redribbon/04.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
-![RedRibbon](/img/sportarten/redribbon/05.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
-![RedRibbon](/img/sportarten/redribbon/06.jpg "Schalker Gymnastik Halle"){:class="img-responsive img-centered"}
-![RedRibbon](/img/sportarten/redribbon/07.jpg "Schalker Halle Eingang"){:class="img-responsive img-centered"}
-![RedRibbon](/img/sportarten/redribbon/08.jpg "Schalker Halle Zugang"){:class="img-responsive img-centered"}
-![RedRibbon](/img/sportarten/redribbon/09.jpg "Schalker Halle 2"){:class="img-responsive img-centered"}
+![RedRibbon](/img/sportarten/_redribbon/01.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
+![RedRibbon](/img/sportarten/_redribbon/02.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
+![RedRibbon](/img/sportarten/_redribbon/03.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
+![RedRibbon](/img/sportarten/_redribbon/04.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
+![RedRibbon](/img/sportarten/_redribbon/05.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
+![RedRibbon](/img/sportarten/_redribbon/06.jpg "Schalker Gymnastik Halle"){:class="img-responsive img-centered"}
+![RedRibbon](/img/sportarten/_redribbon/07.jpg "Schalker Halle Eingang"){:class="img-responsive img-centered"}
+![RedRibbon](/img/sportarten/_redribbon/08.jpg "Schalker Halle Zugang"){:class="img-responsive img-centered"}
+![RedRibbon](/img/sportarten/_redribbon/09.jpg "Schalker Halle 2"){:class="img-responsive img-centered"}
 ___
