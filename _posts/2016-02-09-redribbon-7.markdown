@@ -60,6 +60,6 @@ Der SC AufRuhr und insbesondere die RedRibbon-Gruppe für mich der Schutzraum, d
 
 Einige Eindrücke vom Training und der Hallen:
 <p>&nbsp;</p>
-![RedRibbon](/img/sportarten/_redribbon/01.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
+![Redribbon](/img/sportarten/_redribbon/01.jpg "RedRibbon Training"){:class="img-responsive img-centered"}
 
 ___
