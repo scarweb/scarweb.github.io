@@ -58,8 +58,8 @@ Seit mehreren Jahren treffen wir uns in den Sommerferien zum Grillen und Tötter
 
 Der SC AufRuhr und insbesondere die RedRibbon-Gruppe für mich der Schutzraum, den wir schwule und lesbische Sportler leider immer noch brauchen um unseren Sport ohne diskriminierende Äußerungen ausüben zu können. Hier kann man so sein wie man ist und muss sich nicht verstellen.
 <p>&nbsp;</p>
+
 Einige Eindrücke vom Training und der Hallen:
 <p>&nbsp;</p>
-<img src="/img/sportarten/_redribbon/01_720x600.jpg" alt="RedRibbon Training" title="RedRibbon" class="img-responsive img-centered">
-<p>&nbsp;</p>
+![RedRibbon](/img/sportarten/RedRibbon_720x600_01.jpg "RedRibbon"){:class="img-responsive img-centered"}
 ___
