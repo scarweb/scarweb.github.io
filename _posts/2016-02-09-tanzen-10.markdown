@@ -2,8 +2,8 @@
 layout: default
 modal-id: 10
 date: 2016-02-09
-img: Tanzen_600x600_blau.jpg
-contentimg: tanzen_720x600.jpg
+img: tanzen592farbe.jpg
+contentimg: tanzen710x592.jpg
 sportart: Tanzen
 description: Tanzen microsite
              
@@ -29,7 +29,7 @@ Am Samstag von 16.00 Uhr bis 17.30 Uhr mit Tanzlehrer oder als freies Training n
 Sissi und ihr Stellvertreter Wolfgang sind per Mail unter <b><a href="mailto:tanzen@sc-aufruhr.de"><font color="#0000FF">tanzen@sc-aufruhr.de</font></a></b> erreichbar.
   
 <p>&nbsp;</p>
-![Tanzen](/img/sportarten/Tanzen_720x600_2.jpg "Tanzen"){:class="img-responsive img-centered"}
+![Tanzen](/img/sportarten/tanzen710x592.jpg "Tanzen"){:class="img-responsive img-centered"}
 
 
 **Ein paar Fragen an deinen Ansprechpartner**
@@ -49,7 +49,7 @@ Ein wirklich bunte Mischung sowohl was die Fähigkeiten als auch die Paare angeh
 Wir möchten für jeden eine Anlaufstelle sein – und wenn es nur ist um sich zu orientieren. Spezielle Tanzschuhe sind nicht erforderlich aber das Betreten des Parketts mit verdreckten Straßenschuhen ist nicht erlaubt (Schuhbürste reicht). Sehr stumpfe Turnschuhe sind fürs Tanzen auch eher ungeeignet.
 
 <p>&nbsp;</p>
-![Tanzen](/img/sportarten/Tanzen_720x600_3.jpg "Tanzen"){:class="img-responsive img-centered"}
+![Tanzen](/img/sportarten/tanzen710x592.jpg "Tanzen"){:class="img-responsive img-centered"}
 
 **Wie sehen eure Aktivitäten über das Jahr aus?**
 
