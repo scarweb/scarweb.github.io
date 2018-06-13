@@ -2,8 +2,8 @@
 layout: default
 modal-id: 7
 date: 2016-02-09
-img: Radfahren_600x600_gelb.jpg
-contentimg: Radfahren_720x600.jpg
+img: radfahren592farbe.jpg
+contentimg: radfahren710x592.jpg
 sportart: Radfahren
 description: Radfahren microsite
              
@@ -31,7 +31,7 @@ Nach Absprache
 Martin und sein Stellvertreter Andreas sind per Mail unter <b><a href="mailto:radfahren@sc-aufruhr.de"><font color="#0000FF">radfahren@sc-aufruhr.de</font></a></b> erreichbar.
   
 <p>&nbsp;</p>
-![Radfahren](/img/sportarten/Radfahren_720x600_2.jpg "Radfahren"){:class="img-responsive img-centered"}
+![Radfahren](/img/sportarten/radfahren710x592.jpg "Radfahren"){:class="img-responsive img-centered"}
 
 
 **Ein paar Fragen an deine Ansprechpartner**
@@ -54,7 +54,7 @@ Was die Touren anbelangt, so liegt deren Länge in der Regel zwischen 50 und 60 
 Die Sporttouren betragen ca. 80km und wir fahren mit einer erhöhten Geschwindigkeit  Auch hier gibt es Pausen, wobei die Möglichkeit der Einkehr allerdings nicht im Vordergrund steht. 
 
 <p>&nbsp;</p>
-![Radfahren](/img/sportarten/Radfahren_720x600_3.jpg "Radfahren"){:class="img-responsive img-centered"}
+![Radfahren](/img/sportarten/radfahren710x592.jpg "Radfahren"){:class="img-responsive img-centered"}
 
 **Wie sehen eure Aktivitäten über das Jahr aus?**
 
