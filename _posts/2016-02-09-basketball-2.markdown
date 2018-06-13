@@ -2,8 +2,8 @@
 layout: default
 modal-id: 2
 date: 2016-02-09
-img: Basketball_600x600_gelb.jpg
-contentimg: Basketball_720x600.jpg
+img: basketball592farbe.jpg
+contentimg: basketball710x592.jpg
 sportart: Basketball
 description: Basketball microsite
              
