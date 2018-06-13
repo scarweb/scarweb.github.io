@@ -2,8 +2,8 @@
 layout: default
 modal-id: 9
 date: 2016-02-09
-img: Schwimmen_600x600_gruen.jpg
-contentimg: schwimmen_720x600.jpg
+img: schwimmen592farbe.jpg
+contentimg: schwimmen710x592.jpg
 sportart: Schwimmen
 description: Schwimmen microsite
              
@@ -78,7 +78,7 @@ zumindest eine Lage schwimmen können und Spaß an der Bewegung im Wasser haben.
 
 
 <p>&nbsp;</p>
-![Schwimmen](/img/sportarten/Schwimmen_720x600_3.jpg "Schwimmen"){:class="img-responsive img-centered"}
+![Schwimmen](/img/sportarten/schwimmen710x592.jpg "Schwimmen"){:class="img-responsive img-centered"}
 
 **Wie sehen eure Aktivitäten über das Jahr aus?**
 
