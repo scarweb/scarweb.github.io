@@ -2,8 +2,8 @@
 layout: default
 modal-id: 4
 date: 2016-02-09
-img: Fussball_600x600_blau.jpg
-contentimg: Fussball_720x600.jpg
+img: fussball592farbe.jpg
+contentimg: fussball710x592.jpg
 sportart: Fussball
 description: Fussball microsite
              
@@ -27,7 +27,7 @@ Am Montag von 19.30 Uhr bis 21.00 Uhr in der Soccerworld Recklinghausen an der a
 Fabian und sein Stellvertreter Kai sind per Mail unter <b><a href="mailto:fussball@sc-aufruhr.de"><font color="#0000FF">fussball@sc-aufruhr.de</font></a></b> erreichbar.
   
 <p>&nbsp;</p>
-![Fussball](/img/sportarten/Fussball_720x600_2.jpg "Fussball"){:class="img-responsive img-centered"}
+![Fussball](/img/sportarten/fussball710x592.jpg "Fussball"){:class="img-responsive img-centered"}
 
 
 **Ein paar Fragen an deinen Ansprechpartner**
@@ -47,7 +47,7 @@ Wir sind zur Zeit circa 28 Personen in dieser Abteilung. Dazu gehören aktive Fu
 Im Grunde kann bei uns jeder mitspielen der ein wenig Fußball spielen kann. Hobbykicker-Niveau reicht hier vollkommen aus. Ansonsten braucht man bei uns nur etwas Ausdauer und ein paar Fußballschuhe. 
 
 <p>&nbsp;</p>
-![Fussball](/img/sportarten/Fussball_720x600_3.jpg "Fussball"){:class="img-responsive img-centered"}
+![Fussball](/img/sportarten/fussball710x592.jpg "Fussball"){:class="img-responsive img-centered"}
 
 **Wie sehen eure Aktivitäten über das Jahr aus?**
 
