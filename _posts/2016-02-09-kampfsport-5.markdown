@@ -2,8 +2,8 @@
 layout: default
 modal-id: 5
 date: 2016-02-09
-img: Kampfsport_600x600_lila.jpg
-contentimg: Kampfsport_720x600.jpg
+img: kampfkunst592farbe.jpg
+contentimg: kampfkunst710x592.jpg
 sportart: Kampfkunst
 description: Kampfkunst microsite
              
