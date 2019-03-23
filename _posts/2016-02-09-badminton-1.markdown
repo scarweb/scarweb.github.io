@@ -22,7 +22,7 @@ Wenn du magst, schau doch einfach mal vorbei oder setze dich am besten im Vorfel
 
 <p>&nbsp;</p>
 
- - Hier geht´s zur 2019´er Liste der Turniere von Vereinen der GLBT-Badminton Organisation. <a href="/glbt_turniere.html"><font color="#0000FF">Link</font></a><br>
+ - Hier geht´s zur 2019´er Liste der Turniere von Vereinen der GLBT-Badminton Organisation. <a href="/glbt_turniere.html" target="_blank"><font color="#0000FF">Link</font></a><br>
 
 <p>&nbsp;</p>
 **Trainingsorte und -zeiten**
