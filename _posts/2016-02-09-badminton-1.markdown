@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2016-02-09
 img: badminton592farbe.jpg
-contentimg: badminton1.jpg
+contentimg: badminton710x592.jpg
 sportart: Badminton
 description: Badminton microsite
              
@@ -81,6 +81,7 @@ Du kannst bei uns bis zu dreimal am Training teilnehmen, ohne dem Verein beizutr
 Je öfter du da bist, umso mehr Spaß hat man zusammen. Du merkst also, dass es keine Vorgaben gibt, wie oft pro Woche, Monat, Jahr… oder an welchen Tagen du dabei bist. Natürlich ist es zur eigenen Verbesserung empfehlenswert, mindestens einmal pro Woche zum Training zu kommen. Es herrscht jedoch keine Mannschaftszwang, wie es bei Ligateams sein kann. 
 
 <p>&nbsp;</p>
+![Badminton](/img/sportarten/badminton1.jpg "Badminton"){:class="img-responsive img-centered"}
 
 **Habt ihr eine Trainerin/einen Trainer?**
 
