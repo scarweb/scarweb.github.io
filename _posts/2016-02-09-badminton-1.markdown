@@ -22,7 +22,9 @@ description: Badminton microsite
 **Trainingsorte und -zeiten**
 
 Am Montag von 19 Uhr bis 22 Uhr<br>in der Sporthalle Luisenschule an der Wilhelmstraße 89 in Herne-Wanne-Eickel.<br>
-<p>Achtung - Wegen Reparaturarbeiten an der Sporthalle in Herne-Wanne Eickel fällt das Montagstraining bis auf Weiteres aus.</p>
+<p>Achtung! Wegen Reparaturarbeiten an der Sporthalle in Herne-Wanne Eickel fällt das Montagstraining bis auf Weiteres aus.</p>
+
+<p>&nbsp;</p>
 
 Am Freitag von 20 Uhr bis 22 Uhr<br>und<br>am Sonntag von 16 Uhr bis 19 Uhr<br>in der Sporthalle an der Max-Wiethoff-Straße 14a in Herne-Sodingen.<br>(Für diese Termine solltet ihr euch vorher auf jeden Fall ankündigen, da sie nicht immer stattfinden).<br>
 Für das Freitag Training im: <a href="https://doodle.com/poll/gqw9nvvnqv5p5cig" target="_blank"><font color="#0000FF">Freitags Doodle</font></a><br>
