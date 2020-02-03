@@ -20,7 +20,6 @@ description: Badminton microsite
 **Trainingsorte und -zeiten**
 
 Am Montag von 19 Uhr bis 22 Uhr<br>in der Sporthalle Luisenschule an der Wilhelmstraße 89 in Herne-Wanne-Eickel.<br>
-<p>Achtung! Wegen Reparaturarbeiten an der Sporthalle in Herne-Wanne Eickel fällt das Montagstraining bis auf Weiteres aus.</p>
 
 <p>&nbsp;</p>
 
